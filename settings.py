@@ -10,6 +10,7 @@ FONT_SIZE = 40
 TITLE = "Chain Reaction"
 ROWS = 14
 COLS = 10
+MAX_PLAYERS = 6
 
 # simple grid: 11 * 6
 # hd grid: 19 * 10
